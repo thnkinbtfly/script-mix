@@ -1,4 +1,4 @@
-# Script-mix: Mixing Scripts for Low-resource Language Parsing
+# [NAACL 2024] Script-mix: Mixing Scripts for Low-resource Language Parsing
 
 This work is implemented based on [adapter-transformers](https://github.com/adapter-hub/adapter-transformers).
 
